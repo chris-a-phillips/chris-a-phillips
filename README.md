@@ -1,43 +1,52 @@
 
 
 
-### Hello 
+## WORKING TO MAKE A DIFFERENCE WITH TECHNOLOGY
 
-👋 Hey I'm Chris Phillips. I'm a Full Stack Engineer and I build cool things to bring people together through software. I love React and anything related to it along with all kinds of backend technologies to create full stack applications.
+👋 Hey I'm Chris! I'm a Full Stack Engineer based in the San Francisco Bay Area. I build cool things to bring people together through software. I love using React and anything related to it along with all kinds of backend technologies to create full stack applications.
 
 ## **My showcase projects are:**
 
-* [Gitwrap](https://github.com/anonymous-animals/gitwrap-frontend)
-* [Human Principle](https://github.com/chris-a-phillips/human-principle-frontend)
+[***Gitwrap***](https://github.com/anonymous-animals/gitwrap-frontend) 
+-> A gift guide application for choosing your next gift.
 
-# **Here's what I'm up to:**
+[***Human Principle***](https://github.com/chris-a-phillips/human-principle-frontend)
+-> Keep track of your most human traits and work towards being your best self
+
+## **Here's what I'm up to:**
 
 **🔭 I’m currently working on ...**
 
 [Enter the Faang](https://github.com/chris-a-phillips/enter-the-faang) -> React based "roguelike" card game
+
 [Interview Trivia](https://github.com/chris-a-phillips/interview-trivia) -> Full stack MERN app interview prep with common questions developers should know
+
 [H Trae](https://github.com/chris-a-phillips/h-trae) -> Website for learning and visualizing algorithms and data structures
 
 **🌱 I’m currently learning ...**
-	- GraphQL
-	- React Native
-	- More and more styled components
+
+GraphQL
+
+React Native
+
+More and more styled components
 
 
 
 
 
-## I am also the creator of Code Finesse.
-Come check us out on:
+## I am also the creator of Code Finesse
+
+*Come check us out on:*
 
 ![Github-Logo][github]
-[Github Organization](https://github.com/code-finesse)
+[Github](https://github.com/code-finesse)
 
 ![Discord-Logo][discord]
- [Discord Server](https://discord.gg/ps7MdwvsFu)
+ [Discord](https://discord.gg/ps7MdwvsFu)
 
 ![Twitch-Logo][twitch]
-[Twitch Channel](https://www.twitch.tv/codefinesse)
+[Twitch](https://www.twitch.tv/codefinesse)
 
 [github]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/200px-Octicons-mark-github.svg.png "Code Finesse Github Organization"
 
