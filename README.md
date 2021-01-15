@@ -1,9 +1,7 @@
 
+**![](https://lh4.googleusercontent.com/Z3yeyk9nPQgPE5bp3bAn3kVlQ6-pM6qsHYyo-ASZ2YMOX65PyBKf-TaPecHi8Dr13KGQi4Ah5gm6vyRW_DthC4Lrz_fcg2Yoey5eCnm3SqM3CxDxzvI-8zNYKLxoxRH8Wdzo6Y6THDs)**
 
-
-## WORKING TO MAKE A DIFFERENCE WITH TECHNOLOGY
-
-👋 Hey I'm Chris! I'm a Full Stack Engineer based in the San Francisco Bay Area. I build cool things to bring people together through software. I love using React and anything related to it along with all kinds of backend technologies to create full stack applications.
+👋 Hey I'm Chris! I build cool things to bring people together through software. I love using React and anything related to it along with all kinds of backend technologies to create full stack applications.
 
 ## **My showcase projects are:**
 
@@ -29,7 +27,7 @@ GraphQL
 
 React Native
 
-More and more styled components
+More about styled components
 
 
 
