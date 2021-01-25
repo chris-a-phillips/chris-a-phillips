@@ -15,11 +15,11 @@
 
 **🔭 I’m currently working on ...**
 
-[Enter the Faang](https://github.com/chris-a-phillips/enter-the-faang) -> React based "roguelike" card game
+[***Enter the Faang***](https://github.com/chris-a-phillips/enter-the-faang) -> React based "roguelike" card game
 
-[Interview Trivia](https://github.com/chris-a-phillips/interview-trivia) -> Full stack MERN app for interview prep with common questions developers should know
+[***Interview Trivia***](https://github.com/chris-a-phillips/interview-trivia) -> Full stack MERN app for interview prep with common questions developers should know
 
-[H Trae](https://github.com/chris-a-phillips/h-trae) -> Website for learning and visualizing algorithms and data structures
+[***H Trae***](https://github.com/chris-a-phillips/h-trae) -> Website for learning and visualizing algorithms and data structures
 
 **🌱 I’m currently learning ...**
 
