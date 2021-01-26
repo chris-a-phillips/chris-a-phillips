@@ -30,6 +30,7 @@ React Native
 More about styled components
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-a-phillips&layout=compact)](https://github.com/chris-a-phillips/github-readme-stats)
 
 
 
