@@ -25,7 +25,7 @@
 
 GraphQL
 
-React Native
+Typescript
 
 More about styled components
 
