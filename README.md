@@ -27,7 +27,7 @@ Typescript
 
 Tailwind CSS
 
-*I also have a [Code Finesse](https://github.com/code-finesse) github organization that I add to when I learn something new*
+*I also have a [Code Finesse](https://github.com/code-finesse) github organization that I add to when I learn something new as a learning resource for others*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chris-a-phillips/chris-a-phillips/blob/output/github-contribution-grid-snake.svg">
