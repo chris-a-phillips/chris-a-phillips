@@ -15,7 +15,7 @@
 
 **🔭 I’m currently working on ...**
 
-[***Enter the Faang***](https://github.com/chris-a-phillips/enter-the-faang) -> React based "roguelike" card game
+[***Enter the Faang***](https://github.com/chris-a-phillips/enter-the-faang) -> React based randomized card game
 
 [***Interview Trivia***](https://github.com/chris-a-phillips/interview-trivia) -> Full stack MERN app for interview prep with common questions developers should know
 
