@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-a-phillips&layout=compact)<!--(https://github.com/chris-a-phillips/github-readme-stats) -->
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/chrisaphillips)
+
 ## **My showcase projects are:**
 
 [***Gitwrap***](https://github.com/anonymous-animals/gitwrap-frontend) 
